@@ -2,10 +2,7 @@
 * {
   font-family: "Montserrat", "sans-serif";
 }
-.carousel-item {
-  height: 100vh;
-  min-height: 300px;
-}
+
 .navbar-nav a {
   font-weight: 900;
   font-size: 15px;
